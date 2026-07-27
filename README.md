@@ -114,7 +114,7 @@ The company wants to understand:
 
 # 📂 Repository Structure
 
-```text
+
 📦 Customer-Churn-Analysis-SQL
 │
 ├── 📄 README.md
@@ -123,8 +123,8 @@ The company wants to understand:
 ├── 📁 Dashboard
 ├── 📁 Images
 └── 📁 Report
-```
 
+```text
 📦 Customer-Churn-Analysis-SQL
 │
 ├── 📄 README.md
@@ -142,6 +142,7 @@ The company wants to understand:
 ├── 📁 Dashboard
 ├── 📁 Images
 └── 📁 Report
+```
 
 ---
 
