@@ -114,6 +114,7 @@ The company wants to understand:
 
 # 📂 Project Workflow
 
+```text
 Dataset
     │
     ▼
@@ -139,6 +140,7 @@ Business Recommendations
     │
     ▼
 Power BI Dashboard
+```
 
 ---
 
