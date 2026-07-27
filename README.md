@@ -29,7 +29,6 @@ The company wants to understand:
 * 📈 What strategies can reduce churn
 
 ---
-
 ## 🗂️ Dataset Information
 
 | Item                  | Description        |
@@ -43,6 +42,7 @@ The company wants to understand:
 
 
 ---
+## 🛠️ Tools & Technologies
 
 | Tool               | Purpose                               |
 | ------------------ | ------------------------------------- |
@@ -112,17 +112,37 @@ The company wants to understand:
 
 ---
 
+# 📂 Project Workflow
+
+Dataset
+    │
+    ▼
+Database Setup
+    │
+    ▼
+Data Inspection
+    │
+    ▼
+Data Cleaning
+    │
+    ▼
+Exploratory Data Analysis
+    │
+    ▼
+Business Question Analysis
+    │
+    ▼
+Advanced SQL Analysis
+    │
+    ▼
+Business Recommendations
+    │
+    ▼
+Power BI Dashboard
+
+---
+
 # 📂 Repository Structure
-
-
-📦 Customer-Churn-Analysis-SQL
-│
-├── 📄 README.md
-├── 📁 Dataset
-├── 📁 SQL Scripts
-├── 📁 Dashboard
-├── 📁 Images
-└── 📁 Report
 
 ```text
 📦 Customer-Churn-Analysis-SQL
@@ -172,6 +192,8 @@ The company wants to understand:
 
 💻 **GitHub:**
 [https://github.com/Gafar-olajide](https://github.com/Gafar-olajide)
+
+💼 **Notion:**
 
 ---
 
