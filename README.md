@@ -146,17 +146,3 @@ If you found this project useful or insightful:
 🍴 **Fork it**
 
 💬 **Share your feedback or suggestions**
-
----
-
-## Mentor's Recommendation
-
-This emoji style is ideal because it is:
-
-* ✅ Professional and recruiter-friendly
-* ✅ Easy to scan quickly
-* ✅ Clean and modern
-* ✅ Consistent throughout the document
-* ✅ Commonly seen in high-quality GitHub repositories
-
-Avoid using too many emojis or mixing unrelated ones. Using one relevant emoji per heading or bullet, as shown above, creates a polished look without distracting from the content.
