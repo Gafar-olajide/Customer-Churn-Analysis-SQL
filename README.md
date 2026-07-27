@@ -32,14 +32,14 @@ The company wants to understand:
 
 ## 🗂️ Dataset Information
 
-| Item                   | Description        |
-| ---------------------- | ------------------- |
-|* 📌 **Dataset Source** | Kaggle             |
-|* 🏢 **Industry**       | Telecommunications |
-|* 👥 **Records**        | 7,043 Customers    |
-|* 🧾 **Columns**        | 21 Features        |
-|* 💻 **Database**       | MySQL              |
-|* 🐬 **Analysis Tool**  | MySQL Workbench    |
+| Item                  | Description        |
+| --------------------- | ------------------ |
+|📌 **Dataset Source** | Kaggle             |
+|🏢 **Industry**       | Telecommunications |
+|👥 **Records**        | 7,043 Customers    |
+|🧾 **Columns**        | 21 Features        |
+|💻 **Database**       | MySQL              |
+|🐬 **Analysis Tool**  | MySQL Workbench    |
 
 
 ---
@@ -55,11 +55,12 @@ The company wants to understand:
 
 ---
 
-## 🧠 SQL Skills Demonstrated
+## 🧠 SQL Concepts Demonstrated
 
 * 🧹 Data Cleaning
 * 📊 Aggregate Functions
 * 🗃️ GROUP BY
+* ✅ ORDER BY
 * 🔀 CASE Statements
 * 🧩 Common Table Expressions (CTEs)
 * 🪟 Window Functions
@@ -111,7 +112,7 @@ The company wants to understand:
 
 ---
 
-# 📂 Project Structure
+# 📂 Repository Structure
 
 ```text
 📦 Customer-Churn-Analysis-SQL
@@ -123,6 +124,24 @@ The company wants to understand:
 ├── 📁 Images
 └── 📁 Report
 ```
+
+📦 Customer-Churn-Analysis-SQL
+│
+├── 📄 README.md
+├── 📁 Dataset
+├── 📁 SQL Scripts
+│   ├── 01_database_setup.sql
+│   ├── 02_data_inspection.sql
+│   ├── 03_data_cleaning.sql
+│   ├── 04_customer_overview.sql
+│   ├── 05_customer_demographics.sql
+│   ├── 06_customer_services.sql
+│   ├── 07_revenue_analysis.sql
+│   ├── 08_advanced_churn_analysis.sql
+│   └── 09_dashboard_kpis.sql
+├── 📁 Dashboard
+├── 📁 Images
+└── 📁 Report
 
 ---
 
