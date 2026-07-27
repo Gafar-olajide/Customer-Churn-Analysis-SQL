@@ -147,11 +147,12 @@ Power BI Dashboard
 # 📂 Repository Structure
 
 ```text
-📦 Customer-Churn-Analysis-SQL
+📦 Customer-Churn-Analysis-SQL/
 │
 ├── 📄 README.md
-├── 📁 Dataset
-├── 📁 SQL Scripts
+├── 📁 Dataset/
+|    └── telecom_customer_churn.csv
+├── 📁 SQL Scripts/
 │   ├── 01_database_setup.sql
 │   ├── 02_data_inspection.sql
 │   ├── 03_data_cleaning.sql
@@ -161,9 +162,14 @@ Power BI Dashboard
 │   ├── 07_revenue_analysis.sql
 │   ├── 08_advanced_churn_analysis.sql
 │   └── 09_dashboard_kpis.sql
-├── 📁 Dashboard
-├── 📁 Images
-└── 📁 Report
+├── 📁 Dashboard/
+|   └── Customer_Churn.pbix
+├── 📁 Images/
+│   ├── ERD.png
+│   ├── SQL_Workbench.png
+│   └── Dashboard.png
+└── 📁 Report/
+    └── Customer_Churn_Report.pdf
 ```
 
 ---
