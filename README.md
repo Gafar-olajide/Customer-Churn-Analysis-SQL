@@ -2,7 +2,18 @@
 
 ## 📖 Project Overview
 
-This project analyzes customer churn data for a telecommunications company using **MySQL**. The objective is to identify factors influencing customer churn, evaluate revenue performance, and provide actionable recommendations to improve customer retention and business profitability.
+### About the Project
+
+This project analyzes customer churn data from a telecommunications company using **MySQL**. The goal is to identify the key drivers of customer churn, evaluate customer behavior and revenue performance, and provide actionable business recommendations to improve customer retention.
+
+The project follows a complete analytics workflow, including:
+
+- Database setup
+- Data inspection and cleaning
+- Exploratory data analysis (EDA)
+- Business question analysis
+- Advanced SQL techniques
+- Executive insights and recommendations
 
 ---
 
@@ -21,19 +32,26 @@ The company wants to understand:
 
 ## 🗂️ Dataset Information
 
-* 📌 **Source:** Kaggle
-* 👥 **Records:** 7,043 Customers
-* 🧾 **Features:** 21 Columns
-* 🏢 **Industry:** Telecommunications
+| Item                   | Description        |
+| ---------------------- | ------------------- |
+|* 📌 **Dataset Source** | Kaggle             |
+|* 🏢 **Industry**       | Telecommunications |
+|* 👥 **Records**        | 7,043 Customers    |
+|* 🧾 **Columns**        | 21 Features        |
+|* 💻 **Database**       | MySQL              |
+|* 🐬 **Analysis Tool**  | MySQL Workbench    |
+
 
 ---
 
-## 🛠️ Tools & Technologies
+| Tool               | Purpose                               |
+| ------------------ | ------------------------------------- |
+| 🐬 MySQL Workbench | Database Management & SQL Queries     |
+| 💻 SQL             | Data Analysis                         |
+| 📊 Microsoft Excel | Initial Data Review                   |
+| 📈 Power BI        | Dashboard Development *(Coming Soon)* |
+| 💻 GitHub          | Project Documentation                 |
 
-* 🐬 MySQL Workbench
-* 💻 SQL
-* 📊 Microsoft Excel
-* 📈 Power BI
 
 ---
 
