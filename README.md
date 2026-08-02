@@ -201,8 +201,8 @@ Power BI Dashboard
 💻 **GitHub:**
 [https://github.com/Gafar-olajide](https://github.com/Gafar-olajide)
 
-💼 **Notion:**
-
+💼 **Notion:** 
+[https://jungle-jonquil-295.notion.site/View-Project-2-3af200ad7ef0807d93e5c12f32d82192?source=copy_link](https://jungle-jonquil-295.notion.site/Gafar-Olajide-Notion-Portfolio-Data-Analyst-332200ad7ef080a8b098d4f8a2f52df2?source=copy_link)
 ---
 
 # ⭐ If You Found This Project Helpful
