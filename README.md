@@ -156,18 +156,16 @@ Power BI Dashboard
 │   ├── 01_database_setup.sql
 │   ├── 02_data_inspection.sql
 │   ├── 03_data_cleaning.sql
-│   ├── 04_customer_overview.sql
-│   ├── 05_customer_demographics.sql
-│   ├── 06_customer_services.sql
-│   ├── 07_revenue_analysis.sql
-│   ├── 08_advanced_churn_analysis.sql
-│   └── 09_dashboard_kpis.sql
+│   ├── 04_exploratory_data_analysis.sql
+│   ├── 05_business_questions.sql
+│   ├── 06_advanced_sql_analysis.sql
+│   └── 07_dashboard_kpis.sql
 ├── 📁 Dashboard/
 |   └── Customer_Churn.pbix
 ├── 📁 Images/
-│   ├── ERD.png
-│   ├── SQL_Workbench.png
-│   └── Dashboard.png
+│   ├── Executive Overview.png
+│   ├── Revenue Analysis.png
+│   └── Customer Insights.png
 └── 📁 Report/
     └── Customer_Churn_Report.pdf
 ```
