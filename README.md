@@ -151,7 +151,7 @@ Power BI Dashboard
 │
 ├── 📄 README.md
 ├── 📁 Dataset/
-|    └── [telecom_customer_churn.csv](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/telecom_customer_churn.csv)
+|    └── telecom_customer_churn.csv
 ├── 📁 SQL Scripts/
 │   ├── 01_database_setup.sql
 │   ├── 02_data_inspection.sql
@@ -161,8 +161,8 @@ Power BI Dashboard
 │   ├── 06_advanced_sql_analysis.sql
 │   └── 07_dashboard_kpis.sql
 ├── 📁 Dashboard/
-|   └── [Customer_Churn.pbix](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Customer_Churn_Dashboard.pbix)
-├── [📁 Images/](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Customer%20Insights.png)
+|   └── Customer_Churn.pbix
+├── 📁 Images/
 │   ├── Executive Overview.png
 │   ├── Revenue Analysis.png
 │   └── Customer Insights.png
@@ -178,18 +178,12 @@ Power BI Dashboard
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a528db5e-7569-42ea-86ae-69a799b90a7e" />
 
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/edc88d42-968d-48b8-87fb-515f80b27a15" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c3189202-e4a7-4485-82d4-22dec0ee2088" />
 
-
-
-https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Executive%20Overview.png?raw=true
-
-> *(Insert your Power BI dashboard screenshots here.)*
-https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Executive%20Overview.png
->
-> https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/commit/f58e7e45ff5b943a13818fb4d694d6f063a78c3a
 
 ---
 
@@ -216,6 +210,7 @@ https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Executive
 
 💼 **Notion:** 
 [https://notion.site/Gafar-olajide](https://jungle-jonquil-295.notion.site/Gafar-Olajide-Notion-Portfolio-Data-Analyst-332200ad7ef080a8b098d4f8a2f52df2?source=copy_link)
+
 ---
 
 # ⭐ If You Found This Project Helpful
