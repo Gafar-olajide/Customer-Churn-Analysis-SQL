@@ -151,7 +151,7 @@ Power BI Dashboard
 │
 ├── 📄 README.md
 ├── 📁 Dataset/
-|    └── telecom_customer_churn.csv
+|    └── [telecom_customer_churn.csv](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/telecom_customer_churn.csv)
 ├── 📁 SQL Scripts/
 │   ├── 01_database_setup.sql
 │   ├── 02_data_inspection.sql
