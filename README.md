@@ -161,13 +161,15 @@ Power BI Dashboard
 │   ├── 06_advanced_sql_analysis.sql
 │   └── 07_dashboard_kpis.sql
 ├── 📁 Dashboard/
-|   └── Customer_Churn.pbix
+|   └── [Customer_Churn.pbix](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Customer_Churn_Dashboard.pbix)
 ├── 📁 Images/
 │   ├── Executive Overview.png
 │   ├── Revenue Analysis.png
 │   └── Customer Insights.png
-└── 📁 Report/
-    └── Customer_Churn_Report.pdf
+├── 📁 Report/
+|     └── Customer_Churn_Report.pdf
+└── 📁 Root file/
+    └── LICENSE
 ```
 
 ---
@@ -200,7 +202,7 @@ Power BI Dashboard
 [https://github.com/Gafar-olajide](https://github.com/Gafar-olajide)
 
 💼 **Notion:** 
-[https://jungle-jonquil-295.notion.site/View-Project-2-3af200ad7ef0807d93e5c12f32d82192?source=copy_link](https://jungle-jonquil-295.notion.site/Gafar-Olajide-Notion-Portfolio-Data-Analyst-332200ad7ef080a8b098d4f8a2f52df2?source=copy_link)
+[https://notion.site/Gafar-olajide](https://jungle-jonquil-295.notion.site/Gafar-Olajide-Notion-Portfolio-Data-Analyst-332200ad7ef080a8b098d4f8a2f52df2?source=copy_link)
 ---
 
 # ⭐ If You Found This Project Helpful
