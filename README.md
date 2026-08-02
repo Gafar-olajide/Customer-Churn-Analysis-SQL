@@ -162,7 +162,7 @@ Power BI Dashboard
 │   └── 07_dashboard_kpis.sql
 ├── 📁 Dashboard/
 |   └── [Customer_Churn.pbix](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Customer_Churn_Dashboard.pbix)
-├── 📁 Images/
+├── [📁 Images/](https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Customer%20Insights.png)
 │   ├── Executive Overview.png
 │   ├── Revenue Analysis.png
 │   └── Customer Insights.png
@@ -176,7 +176,20 @@ Power BI Dashboard
 
 # 📈 Dashboard Preview
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a528db5e-7569-42ea-86ae-69a799b90a7e" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/edc88d42-968d-48b8-87fb-515f80b27a15" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c3189202-e4a7-4485-82d4-22dec0ee2088" />
+
+
+
+https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Executive%20Overview.png?raw=true
+
 > *(Insert your Power BI dashboard screenshots here.)*
+https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/blob/main/Executive%20Overview.png
+>
+> https://github.com/Gafar-olajide/Customer-Churn-Analysis-SQL/commit/f58e7e45ff5b943a13818fb4d694d6f063a78c3a
 
 ---
 
